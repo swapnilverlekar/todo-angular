@@ -1,0 +1,42 @@
+.btn-delete {
+    background-color: white;
+    color: red;
+    padding: 10px 24px;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border: 2px solid red;
+  }
+.btn-addtask {
+    background-color: white; 
+    color: green;
+    padding: 10px 24px;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border: 2px solid green;
+}
+.text{
+    background-color: white; 
+    color: blue;
+    padding: 10px 24px;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border: 2px solid black;
+}
+.app-title{
+    color: rebeccapurple;
+}
+ul {
+    list-style-type: none;
+    padding: auto;
+  }
+
+
