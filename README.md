@@ -1,7 +1,8 @@
 # TodoApp - Angular Quick Revision
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
-
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.<br>
+<img src="https://user-images.githubusercontent.com/48671736/227209354-aceef62e-2efb-4cae-8379-31a07ccb5ed6.png" width="500">
+<br>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
